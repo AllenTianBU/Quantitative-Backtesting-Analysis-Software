@@ -1,2 +1,2 @@
 # Quantitative-Backtesting-Analysis-Software
-Scrape real time data, backtest through chosen/custom algorithms, automatic analysis, and graphs results. 
+Scrape real time data, backtest through chosen/custom algorithms, automatic analysis, and graphs results. "AlphaVantage" is a module that scrapes live data, process it, and feed to the main directory. "backteting_analysis_graphing_software.py" allows the user to select any stock in the US market and backtest through chosen/custom alogrithms. A graphical analysis and summary will automatically be generated. This particular version does not include machine learning (but upon request I can share). All code were written by me. 
